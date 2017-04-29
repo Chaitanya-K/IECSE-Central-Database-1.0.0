@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_814cc79b6726af0db408545ea5bfd351f0cd866a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha1_fa0dea407ee5a1a99d12117068a9b4a8b4935811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_d0a63fd6e6fc4dd6f4d70988f963833d95c08ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_3d4d802ee99bb951f86a776e8593919d813ab516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_295758fda04a699129ccbdb82fb0cf3252cb0809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_2ae31144d1cbcb176fe4c0a7ecc3751ea58290a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_10099a0337cd31f8735e8ded97a53c4a87bc6a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_382a9f80778310d859774dc3d4e56d7f0c94cf1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha1\constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha1_f407bc1fc5dc790c8984dcbe74e8d64ab6f71a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_90a2e09bdd5c21884734830636da7b01c4d9feb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\mahe\Desktop\DBMSProject\login-register-sqlite-tutorial-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5b86f76c6e888d46a15260a6a6f08ea91e50edb0.jar" />
+    </item>
+
+</items>
